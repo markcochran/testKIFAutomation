@@ -12,6 +12,6 @@ import XCTest
 class SampleTest : KIFTestCase {
 
     func testAutomation() {
-        tester().tapViewWithAccessibilityLabel("testingButton")
+        tester().tapViewWithAccessibilityLabel("testingButton2")
     }
 }
