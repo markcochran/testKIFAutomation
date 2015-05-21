@@ -12,55 +12,6 @@
 		4F7F94DB1B0E3C4D00F7A55F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F94D91B0E3C4D00F7A55F /* Main.storyboard */; };
 		4F7F94DD1B0E3C4D00F7A55F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F94DC1B0E3C4D00F7A55F /* Images.xcassets */; };
 		4F7F94E01B0E3C4D00F7A55F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F94DE1B0E3C4D00F7A55F /* LaunchScreen.xib */; };
-		4F7F95E51B0E3CDA00F7A55F /* Acceptance Tests-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F952E1B0E3CDA00F7A55F /* Acceptance Tests-Info.plist */; };
-		4F7F95E71B0E3CDA00F7A55F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95311B0E3CDA00F7A55F /* InfoPlist.strings */; };
-		4F7F95E81B0E3CDA00F7A55F /* Acceptance Tests copy-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95331B0E3CDA00F7A55F /* Acceptance Tests copy-Info.plist */; };
-		4F7F95EA1B0E3CDA00F7A55F /* AboutViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95371B0E3CDA00F7A55F /* AboutViewController.xib */; };
-		4F7F95ED1B0E3CDA00F7A55F /* Calculator-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F953C1B0E3CDA00F7A55F /* Calculator-Info.plist */; };
-		4F7F95EE1B0E3CDA00F7A55F /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F953E1B0E3CDA00F7A55F /* Default-568h@2x.png */; };
-		4F7F95EF1B0E3CDA00F7A55F /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F953F1B0E3CDA00F7A55F /* Default.png */; };
-		4F7F95F01B0E3CDA00F7A55F /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95401B0E3CDA00F7A55F /* Default@2x.png */; };
-		4F7F95F11B0E3CDA00F7A55F /* BasicCalculatorViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95411B0E3CDA00F7A55F /* BasicCalculatorViewController.xib */; };
-		4F7F95F21B0E3CDA00F7A55F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95431B0E3CDA00F7A55F /* InfoPlist.strings */; };
-		4F7F95F41B0E3CDA00F7A55F /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95471B0E3CDA00F7A55F /* HomeViewController.xib */; };
-		4F7F95F61B0E3CDA00F7A55F /* Acceptance Tests-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F954F1B0E3CDA00F7A55F /* Acceptance Tests-Info.plist */; };
-		4F7F95F71B0E3CDA00F7A55F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95511B0E3CDA00F7A55F /* InfoPlist.strings */; };
-		4F7F95FA1B0E3CDA00F7A55F /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95561B0E3CDA00F7A55F /* Default-568h@2x.png */; };
-		4F7F95FB1B0E3CDA00F7A55F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95581B0E3CDA00F7A55F /* InfoPlist.strings */; };
-		4F7F95FC1B0E3CDA00F7A55F /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F955A1B0E3CDA00F7A55F /* MainWindow.xib */; };
-		4F7F95FD1B0E3CDA00F7A55F /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F955C1B0E3CDA00F7A55F /* RootViewController.xib */; };
-		4F7F96001B0E3CDA00F7A55F /* Testable-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95611B0E3CDA00F7A55F /* Testable-Info.plist */; };
-		4F7F96021B0E3CDA00F7A55F /* Testable.xcworkspace in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95681B0E3CDA00F7A55F /* Testable.xcworkspace */; };
-		4F7F96041B0E3CDA00F7A55F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F956C1B0E3CDA00F7A55F /* LaunchScreen.xib */; };
-		4F7F96051B0E3CDA00F7A55F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F956E1B0E3CDA00F7A55F /* Main.storyboard */; };
-		4F7F96061B0E3CDA00F7A55F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95701B0E3CDA00F7A55F /* Images.xcassets */; };
-		4F7F96071B0E3CDA00F7A55F /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95711B0E3CDA00F7A55F /* Info.plist */; };
-		4F7F96091B0E3CDA00F7A55F /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95781B0E3CDA00F7A55F /* Info.plist */; };
-		4F7F960D1B0E3CDA00F7A55F /* Add Category Linker Flags.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F957E1B0E3CDA00F7A55F /* Add Category Linker Flags.png */; };
-		4F7F960E1B0E3CDA00F7A55F /* Add Header Search Paths.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F957F1B0E3CDA00F7A55F /* Add Header Search Paths.png */; };
-		4F7F960F1B0E3CDA00F7A55F /* Add KIF Preprocessor Macro.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95801B0E3CDA00F7A55F /* Add KIF Preprocessor Macro.png */; };
-		4F7F96101B0E3CDA00F7A55F /* Add Library Sheet.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95811B0E3CDA00F7A55F /* Add Library Sheet.png */; };
-		4F7F96111B0E3CDA00F7A55F /* Add Library.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95821B0E3CDA00F7A55F /* Add Library.png */; };
-		4F7F96121B0E3CDA00F7A55F /* Added KIF to Project.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95831B0E3CDA00F7A55F /* Added KIF to Project.png */; };
-		4F7F96131B0E3CDA00F7A55F /* Create Workspace.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95841B0E3CDA00F7A55F /* Create Workspace.png */; };
-		4F7F96141B0E3CDA00F7A55F /* Duplicate Target Confirmation.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95851B0E3CDA00F7A55F /* Duplicate Target Confirmation.png */; };
-		4F7F96151B0E3CDA00F7A55F /* Duplicate Target.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95861B0E3CDA00F7A55F /* Duplicate Target.png */; };
-		4F7F96161B0E3CDA00F7A55F /* Rename Product.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95871B0E3CDA00F7A55F /* Rename Product.png */; };
-		4F7F96171B0E3CDA00F7A55F /* Rename Target.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95881B0E3CDA00F7A55F /* Rename Target.png */; };
-		4F7F96181B0E3CDA00F7A55F /* Simple App.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95891B0E3CDA00F7A55F /* Simple App.png */; };
-		4F7F961F1B0E3CDA00F7A55F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95931B0E3CDA00F7A55F /* InfoPlist.strings */; };
-		4F7F96221B0E3CDA00F7A55F /* KIF Tests-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95971B0E3CDA00F7A55F /* KIF Tests-Info.plist */; };
-		4F7F96351B0E3CDA00F7A55F /* KIF.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95AC1B0E3CDA00F7A55F /* KIF.podspec */; };
-		4F7F96361B0E3CDA00F7A55F /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95B11B0E3CDA00F7A55F /* Info.plist */; };
-		4F7F96371B0E3CDA00F7A55F /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95B31B0E3CDA00F7A55F /* LICENSE */; };
-		4F7F963C1B0E3CDA00F7A55F /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95B91B0E3CDA00F7A55F /* Default-568h@2x.png */; };
-		4F7F963D1B0E3CDA00F7A55F /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95BA1B0E3CDA00F7A55F /* Default.png */; };
-		4F7F963E1B0E3CDA00F7A55F /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95BB1B0E3CDA00F7A55F /* Default@2x.png */; };
-		4F7F963F1B0E3CDA00F7A55F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95BC1B0E3CDA00F7A55F /* InfoPlist.strings */; };
-		4F7F96401B0E3CDA00F7A55F /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95BE1B0E3CDA00F7A55F /* MainStoryboard.storyboard */; };
-		4F7F96421B0E3CDA00F7A55F /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95C11B0E3CDA00F7A55F /* index.html */; };
-		4F7F96441B0E3CDA00F7A55F /* page2.html in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95C31B0E3CDA00F7A55F /* page2.html */; };
-		4F7F964B1B0E3CDA00F7A55F /* Test Host-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F95CA1B0E3CDA00F7A55F /* Test Host-Info.plist */; };
 		4F7F96691B0E3CF400F7A55F /* libKIF.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F7F96581B0E3CDA00F7A55F /* libKIF.a */; };
 		4F7F966D1B0E3D9A00F7A55F /* IOKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F7F966C1B0E3D9A00F7A55F /* IOKit.framework */; };
 		4F7F96721B0E402500F7A55F /* TestAutomationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F7F94EB1B0E3C4D00F7A55F /* TestAutomationTests.swift */; };
@@ -961,55 +912,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4F7F96051B0E3CDA00F7A55F /* Main.storyboard in Resources */,
-				4F7F96041B0E3CDA00F7A55F /* LaunchScreen.xib in Resources */,
-				4F7F96111B0E3CDA00F7A55F /* Add Library.png in Resources */,
-				4F7F95F61B0E3CDA00F7A55F /* Acceptance Tests-Info.plist in Resources */,
-				4F7F95F01B0E3CDA00F7A55F /* Default@2x.png in Resources */,
-				4F7F963C1B0E3CDA00F7A55F /* Default-568h@2x.png in Resources */,
-				4F7F961F1B0E3CDA00F7A55F /* InfoPlist.strings in Resources */,
-				4F7F95E51B0E3CDA00F7A55F /* Acceptance Tests-Info.plist in Resources */,
-				4F7F96151B0E3CDA00F7A55F /* Duplicate Target.png in Resources */,
-				4F7F96361B0E3CDA00F7A55F /* Info.plist in Resources */,
-				4F7F964B1B0E3CDA00F7A55F /* Test Host-Info.plist in Resources */,
-				4F7F96401B0E3CDA00F7A55F /* MainStoryboard.storyboard in Resources */,
-				4F7F95F71B0E3CDA00F7A55F /* InfoPlist.strings in Resources */,
-				4F7F96441B0E3CDA00F7A55F /* page2.html in Resources */,
-				4F7F95FB1B0E3CDA00F7A55F /* InfoPlist.strings in Resources */,
-				4F7F95FD1B0E3CDA00F7A55F /* RootViewController.xib in Resources */,
-				4F7F96171B0E3CDA00F7A55F /* Rename Target.png in Resources */,
-				4F7F96091B0E3CDA00F7A55F /* Info.plist in Resources */,
-				4F7F96181B0E3CDA00F7A55F /* Simple App.png in Resources */,
-				4F7F963E1B0E3CDA00F7A55F /* Default@2x.png in Resources */,
-				4F7F95E81B0E3CDA00F7A55F /* Acceptance Tests copy-Info.plist in Resources */,
-				4F7F960E1B0E3CDA00F7A55F /* Add Header Search Paths.png in Resources */,
-				4F7F960F1B0E3CDA00F7A55F /* Add KIF Preprocessor Macro.png in Resources */,
-				4F7F960D1B0E3CDA00F7A55F /* Add Category Linker Flags.png in Resources */,
-				4F7F95FA1B0E3CDA00F7A55F /* Default-568h@2x.png in Resources */,
-				4F7F96071B0E3CDA00F7A55F /* Info.plist in Resources */,
-				4F7F95EA1B0E3CDA00F7A55F /* AboutViewController.xib in Resources */,
-				4F7F95F11B0E3CDA00F7A55F /* BasicCalculatorViewController.xib in Resources */,
-				4F7F95E71B0E3CDA00F7A55F /* InfoPlist.strings in Resources */,
-				4F7F95EF1B0E3CDA00F7A55F /* Default.png in Resources */,
-				4F7F96101B0E3CDA00F7A55F /* Add Library Sheet.png in Resources */,
-				4F7F96021B0E3CDA00F7A55F /* Testable.xcworkspace in Resources */,
-				4F7F96061B0E3CDA00F7A55F /* Images.xcassets in Resources */,
-				4F7F963D1B0E3CDA00F7A55F /* Default.png in Resources */,
-				4F7F96161B0E3CDA00F7A55F /* Rename Product.png in Resources */,
-				4F7F95ED1B0E3CDA00F7A55F /* Calculator-Info.plist in Resources */,
-				4F7F96371B0E3CDA00F7A55F /* LICENSE in Resources */,
-				4F7F96421B0E3CDA00F7A55F /* index.html in Resources */,
-				4F7F963F1B0E3CDA00F7A55F /* InfoPlist.strings in Resources */,
-				4F7F95FC1B0E3CDA00F7A55F /* MainWindow.xib in Resources */,
-				4F7F96121B0E3CDA00F7A55F /* Added KIF to Project.png in Resources */,
-				4F7F95EE1B0E3CDA00F7A55F /* Default-568h@2x.png in Resources */,
-				4F7F95F21B0E3CDA00F7A55F /* InfoPlist.strings in Resources */,
-				4F7F96131B0E3CDA00F7A55F /* Create Workspace.png in Resources */,
-				4F7F96221B0E3CDA00F7A55F /* KIF Tests-Info.plist in Resources */,
-				4F7F96351B0E3CDA00F7A55F /* KIF.podspec in Resources */,
-				4F7F96141B0E3CDA00F7A55F /* Duplicate Target Confirmation.png in Resources */,
-				4F7F96001B0E3CDA00F7A55F /* Testable-Info.plist in Resources */,
-				4F7F95F41B0E3CDA00F7A55F /* HomeViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
