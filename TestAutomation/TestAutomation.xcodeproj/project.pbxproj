@@ -1337,6 +1337,7 @@
 				4F7F94F11B0E3C4D00F7A55F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4F7F94F21B0E3C4D00F7A55F /* Build configuration list for PBXNativeTarget "TestAutomationTests" */ = {
 			isa = XCConfigurationList;
@@ -1345,6 +1346,7 @@
 				4F7F94F41B0E3C4D00F7A55F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
