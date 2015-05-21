@@ -82,6 +82,13 @@
             ReferencedContainer = "container:TestAutomation.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <EnvironmentVariables>
+         <EnvironmentVariable
+            key = "KIF_SCREENSHOTS"
+            value = "/Library/Developer/XcodeServer/screenshots"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+      </EnvironmentVariables>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
